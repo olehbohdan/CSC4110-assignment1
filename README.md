@@ -1,6 +1,10 @@
 # Github and git conflict 
 
-# Name
+# Github and git
+
+# CSC4110-assignment1
+
+## Name
 **Oleg Korobeyko**
-# Acces ID
+## Acces ID
 **hh9612**
