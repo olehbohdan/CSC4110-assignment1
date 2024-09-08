@@ -1,4 +1,6 @@
-# Name
+# Github and git
+
+## Name
 **Oleg Korobeyko**
-# Acces ID
+## Acces ID
 **hh9612**
